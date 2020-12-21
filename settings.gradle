@@ -1,0 +1,2 @@
+include ':app', ':WeixinUI'
+rootProject.name='WeixinUIDemo'
